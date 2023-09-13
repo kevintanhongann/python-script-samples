@@ -1,0 +1,19 @@
+Python is a popular language for data science tasks, and there are many open-source libraries that make Python data tasks much easier. Here are some of the most important libraries for data science tasks available in the Python ecosystem:
+
+1. **NumPy**: A perfect tool for scientific computing and performing basic and advanced array operations. It helps to process arrays that store values of the same data type and makes performing math operations on arrays (and their vectorization) easier ¹².
+
+2. **SciPy**: This useful library includes modules for linear algebra, integration, optimization, and statistics. Its main functionality was built upon NumPy, so its arrays make use of this library. SciPy works great for all kinds of scientific programming projects (science, mathematics, and engineering) ¹².
+
+3. **Pandas**: A library created to help developers work with "labeled" and "relational" data intuitively. It's based on two main data structures: "Series" (one-dimensional, like a list of items) and "Data Frames" (two-dimensional, like a table with multiple columns). Pandas allows converting data structures to DataFrame objects, handling missing data, and adding/deleting columns from DataFrame, imputing missing files, and plotting data with histogram or plot box ¹².
+
+4. **Scikit-learn**: A famous Python library to work with complex data. Scikit-learn is an open-source library that supports machine learning. It supports variously supervised and unsupervised algorithms like linear regression, classification, clustering, etc ⁴.
+
+5. **Beautiful Soup**: A powerful library for working with tabular data in Python. It provides data structures for efficiently storing large datasets and tools for working with them. Beautiful Soup is particularly useful for cleaning and wrangling data, as well as for exploratory data analysis ⁴.
+
+I hope this helps!
+
+Source: Conversation with Bing, 9/13/2023
+(1) Top Python Libraries for Data Science in 2022 | DataCamp. https://www.datacamp.com/blog/top-python-libraries-for-data-science.
+(2) 15 Python Libraries for Data Science You Should Know. https://www.dataquest.io/blog/15-python-libraries-for-data-science/.
+(3) Libraries in Python - GeeksforGeeks. https://www.geeksforgeeks.org/libraries-in-python/.
+(4) Top 10 Must-Know Python Libraries to be Data Scientist. https://medium.com/@michael.zats/master-data-science-with-these-10-essential-python-libraries-fb01f0fdb108.
